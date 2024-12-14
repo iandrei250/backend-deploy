@@ -1,0 +1,9 @@
+D:\Projects\backend-deploy\backend\bin\Release\net9.0\publish\backend.exe
+D:\Projects\backend-deploy\backend\bin\Release\net9.0\publish\appsettings.Development.json
+D:\Projects\backend-deploy\backend\bin\Release\net9.0\publish\appsettings.json
+D:\Projects\backend-deploy\backend\bin\Release\net9.0\publish\backend.dll
+D:\Projects\backend-deploy\backend\bin\Release\net9.0\publish\backend.deps.json
+D:\Projects\backend-deploy\backend\bin\Release\net9.0\publish\backend.runtimeconfig.json
+D:\Projects\backend-deploy\backend\bin\Release\net9.0\publish\backend.pdb
+D:\Projects\backend-deploy\backend\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\backend-deploy\backend\bin\Release\net9.0\publish\Microsoft.OpenApi.dll
